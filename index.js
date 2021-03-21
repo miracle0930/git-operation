@@ -24,5 +24,6 @@ const person = {
 const contentOnMaster = {
   content: 'this is the first modify on master',
   stillContent: 'this is the second modify on master',
-  stillMoreContent: 'this is the first modify on pre'
+  stillMoreContent: 'this is the first modify on pre',
+  sitllMoreTediousContent: 'this is the second modify on pre'
 }
