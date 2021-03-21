@@ -21,6 +21,9 @@ const person = {
   ]
 }
 
+const contentOnTestMaster = {
+  content: 'this is the first modify made on test master'
+}
 const contentOnMaster = {
   content: 'this is the first modify on master',
   stillContent: 'this is the second modify on master',
