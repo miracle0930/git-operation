@@ -20,3 +20,7 @@ const person = {
     }
   ]
 }
+
+const contentOnTestMaster = {
+  content: 'this is the first modify made on test master'
+}
